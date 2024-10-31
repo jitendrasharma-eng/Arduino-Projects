@@ -1,3 +1,5 @@
+//Creator JITENDRA SHARMA
+
 const int yellowLED = 12;  // Pin for yellow LED
 const int redLED = 11;     // Pin for red LED
 const int blueLED = 10;    // Pin for blue LED
